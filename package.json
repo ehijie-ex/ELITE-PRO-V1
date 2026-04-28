@@ -1,5 +1,5 @@
 {
-  "name": "ELITE-PRO-V1",
+  "name": "Dom-X",
   "version": "1.1.0",
   "description": "A WhatsApp bot with rich features.",
   "main": "index.js",
@@ -7,7 +7,7 @@
   "scripts": {
     "start": "node index.js"
   },
-  "author": "cyrilix",
+  "author": "Dom-X",
   "license": "MIT",
   "dependencies": {
     "baileys": "npm:eliteprotech-baileys@1.0.4",
